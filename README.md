@@ -12,7 +12,7 @@ Fonts
 
 Materials
 --
-| Material [materials/psb_hud/notif/] | Format | Size [KB] | Image |
+| Material | Format | Size [KB] | Image |
 |:-----------------------------------:|:------:|:---------:|:-----:|
 |                                     |        |           |       |
 | empty                               |   PNG  |    0.51   |  ![IMG](/materials/psb_hud/notif/empty.png?raw=true)  |
