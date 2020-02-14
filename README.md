@@ -8,7 +8,7 @@ Fonts
 | Header   | Bebas Neue Pro               | 500, 550 |   Yes  |   4   |    340    |
 | Argument | Bebas Neue Pro Book          | 0        |   Yes  |   2   |    171    |
 | Body     | Bebas Neue Pro Expanded Book | 0        |   No   |   1   |     85    |
-| Title    | Bebas Neue Pro Expanded      | 0        |   No   |   1   |     85    |
+| Title    | Bebas Neue Pro Expanded      | 0, 500   |   No   |   1   |     85    |
 |          |                              |          |        |   8   |    681    |
 
 Materials
