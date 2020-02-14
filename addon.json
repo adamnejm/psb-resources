@@ -1,0 +1,11 @@
+{
+	"title":	"Proper Sandbox Resources",
+	"type":		"ServerContent",
+	"tags":		[ "scenic", "build" ],
+	"ignore":
+	[
+		".git*",
+		"README.md",
+		"psb.jpg"
+	]
+}
