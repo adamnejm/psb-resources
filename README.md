@@ -16,9 +16,9 @@ Materials
 | Material | Format | Size [KB] | Image |
 |:-----------------------------------:|:------:|:---------:|:-----:|
 |                                     |        |           |       |
-| empty                               |   PNG  |    0.51   |  ![IMG](/materials/psb_hud/notif/empty.png?raw=true)  |
-| cleanup                             |   PNG  |    1.3    |  ![IMG](/materials/psb_hud/notif/cleanup.png?raw=true)  |
-| error                               |   PNG  |    0.76   |  ![IMG](/materials/psb_hud/notif/error.png?raw=true)  |
-| generic                             |   PNG  |    0.93   |  ![IMG](/materials/psb_hud/notif/generic.png?raw=true)  |
-| hint                                |   PNG  |    0.93   |  ![IMG](/materials/psb_hud/notif/hint.png?raw=true)  |
-| undo                                |   PNG  |    0.99   |  ![IMG](/materials/psb_hud/notif/undo.png?raw=true)  |
+| empty                               |   PNG  |    0.81   |  ![IMG](/materials/psb_hud/notif/empty.png?raw=true)  |
+| cleanup                             |   PNG  |    1.39   |  ![IMG](/materials/psb_hud/notif/cleanup.png?raw=true)  |
+| error                               |   PNG  |    1.26   |  ![IMG](/materials/psb_hud/notif/error.png?raw=true)  |
+| generic                             |   PNG  |    1.39   |  ![IMG](/materials/psb_hud/notif/generic.png?raw=true)  |
+| hint                                |   PNG  |    1.30   |  ![IMG](/materials/psb_hud/notif/hint.png?raw=true)  |
+| undo                                |   PNG  |    1.47   |  ![IMG](/materials/psb_hud/notif/undo.png?raw=true)  |
