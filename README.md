@@ -26,5 +26,6 @@ Materials
 
 Material Definitions
 --
-39x Valve Material Type (*vmt) files describing spawnicons for Counter-Strike: Source weapons and items
-Size of each file: ~150 Bytes; Total size of all *vmt* files: ~5.8 KB
+39x Valve Material Type (*vmt) files describing spawnicons for Counter-Strike: Source weapons and items  
+Size of each file: ~150 Bytes  
+Total size of the files: ~5.8 KB
