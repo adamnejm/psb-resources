@@ -6,6 +6,7 @@
 	[
 		".git*",
 		"README.md",
-		"psb.jpg"
+		"psb.jpg",
+		"build.md"
 	]
 }
