@@ -1,5 +1,6 @@
 # Proper Sandbox Resources
-
+Below are listed contents of this repository
+#
 Fonts
 --
 |  Purpose |             Font             |  Weights | Italic | Files | Size [KB] |
@@ -22,3 +23,8 @@ Materials
 | generic                             |   PNG  |    1.39   |  ![IMG](/materials/psb_hud/notif/generic.png?raw=true)  |
 | hint                                |   PNG  |    1.30   |  ![IMG](/materials/psb_hud/notif/hint.png?raw=true)  |
 | undo                                |   PNG  |    1.47   |  ![IMG](/materials/psb_hud/notif/undo.png?raw=true)  |
+
+Material Definitions
+--
+39x Valve Material Type (*vmt) files describing spawnicons for Counter-Strike: Source weapons and items
+Size of each file: ~150 Bytes; Total size of all *vmt* files: ~5.8 KB
